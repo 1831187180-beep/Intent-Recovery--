@@ -1,0 +1,6 @@
+{
+  "name": "Intent Recovery",
+  "description": "External Intention Memory and non-judgmental reminder prototype for HCI study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
